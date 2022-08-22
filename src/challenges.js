@@ -115,7 +115,6 @@ function encode(str) {
 console.log(encode('hi there'));
 
 function decode(str) {
-  // seu código aqui
   let parametros = {
     1: 'a',
     2: 'e',
@@ -135,7 +134,7 @@ function decode(str) {
   result = strSplit.join('');
   return result;
 }
-console.log(decode('h3 th2r2'));
+console.log(decode('9 9 9 9'));
 
 module.exports = {
   calcArea,
